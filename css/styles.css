@@ -44,6 +44,22 @@ body {
   overflow: hidden;
 }
 
+.hero-section {
+  margin: 0 auto;
+  max-width: 1440px;
+  padding: 188px 0;
+  background-color: #2E2F42;
+
+  background-position: 50% 50%;
+  background-image: linear-gradient(
+    rgba(46, 47, 66, 0.7),
+     rgba(46, 47, 66, 0.7)
+    ),
+   url('../images/img-11.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /* header */
 .logo {
   font-family: Raleway, sans-serif;
@@ -348,7 +364,7 @@ body {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people-office-@2x.jpg);
+      url('../images/img-11.jpg');
   }
 }
 /* /desktop_hero_section */
