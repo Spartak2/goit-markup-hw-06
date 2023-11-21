@@ -1,3 +1,5 @@
+
+
 h1,
 h2,
 h3,
@@ -244,7 +246,7 @@ body {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/img-11.jpg);
+    url(../images/mobile-people-office.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #2e2f42;
@@ -252,6 +254,7 @@ body {
   max-width: 320px;
   margin: 0 auto;
 }
+
 @media screen and (min-resolution: 192dpi),
   screen and (min-resolution: 2dppx),
   screen and (min-device-pixel-ratio: 2) {
@@ -260,8 +263,8 @@ body {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/img-11.jpg);
-  }
+      url(../images/mobile-people-office.jpg);
+    }
 }
 
 .hero-header {
@@ -334,7 +337,7 @@ body {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/img-11@2x.jpg);
+      url(../images/tablet-people-office@2x.jpg);
   }
 }
 
@@ -348,7 +351,7 @@ body {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/img-11.jpg);
+      url(../images/people-office.jpg);
     max-width: 1440px;
     padding-top: 188px;
     padding-bottom: 188px;
@@ -370,7 +373,7 @@ body {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/img-11.jpg);
+      url(../images/people-office-@2x.jpg);
   }
 }
 
